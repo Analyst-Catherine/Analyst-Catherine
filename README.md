@@ -1,7 +1,7 @@
  Hello, I'm Hellen-Catherine Ametume 👋
 I'm a data enthusiast with a passion for working with data and turning it into meaningful insights. Here's a little about me and my skills:
 
- ##About Me
+ ## About Me
 
 - 📊 Data Analyst with a focus on Excel, SQL, Power BI, and Python.
 - 🌱 Constantly learning and improving my skills in data analysis.
